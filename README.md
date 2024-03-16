@@ -8,11 +8,6 @@
   <img src="https://profile-counter.glitch.me/betellione/count.svg" />
 </p>
 <p align="center">
-<a href="https://now-playing-66mfrri4j-betellione.vercel.app/now-playing?open">
-    <img src="https://now-playing-66mfrri4j-betellione.vercel.app/now-playing" width="512" height="128">
-</a>
-</p>
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=betellione&count_private=true&show_icons=true&theme=buefy" />
 </p>
 
