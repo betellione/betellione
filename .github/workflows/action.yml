@@ -9,7 +9,7 @@ jobs:
     
     steps:
       - name: test
-        run: echo "${{ secrets.METRICS_TOKEN }}""
+        run: echo "${{ secrets.METRICS_TOKEN }}"
       - uses: lowlighter/metrics@latest
         
         with:
