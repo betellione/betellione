@@ -18,5 +18,13 @@ jobs: #Начало секции джобов
   print_short_technical_info: #Начало секции третий джобы
     runs-on: ubuntu-latest #Среда выполнения джоба
     steps: #Начало секции шагов
-      - name: Print short_tech_info #Название шага
+      - name: Print short_tech_info #Название шагаS
         run: sudo lshw -short #Команда, которая будет выполнена в терминале
+
+  print_secret: #Начало секции первой джобы
+    runs-on: ubuntu-latest #Среда выполнения джоба
+    steps: #Начало секции шагов
+      - name: Print hello #Название шага
+        env: 
+            SECRET: ${{ secrets.SECRET_TOKEN }} 
+        run: echo "${{env.SECRET}}" #Команда, которая будет выполнена в терминале
