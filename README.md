@@ -2,4 +2,4 @@
 
 [<img align="left" width="400" alt="if you see this, it means my metrics are not working" src="https://github.com/betellione/betellione/blob/main/github-metrics.svg">](https://github.com/betellione/betellione)
 
-![soft](https://capsule-render.vercel.app/api?type=soft&color=gradient&text=Come%20again!&fontSize=40&animation=twinkling)
+<!--![soft](https://capsule-render.vercel.app/api?type=soft&color=gradient&text=Come%20again!&fontSize=40&animation=twinkling) -->
