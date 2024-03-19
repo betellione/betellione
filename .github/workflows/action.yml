@@ -17,6 +17,8 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           template: repository
+          user: betellione
+          repo: metrics
           token: ${{ secrets.METRICS_TOKEN }}
           plugin_languages: yes
           plugin_languages_indepth: yes
