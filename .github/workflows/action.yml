@@ -19,7 +19,7 @@ jobs:
         with:
           filename: metrics.plugin.languages.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
+          base: "header"
           plugin_languages: yes
           plugin_languages_indepth: yes
       - name: Half-year calendar
@@ -36,5 +36,5 @@ jobs:
           token: NOT_NEEDED
           base: ""
           plugin_leetcode: yes
-          plugin_leetcode_sections: solved, skills, recent
+          plugin_leetcode_sections: solved, skills
       
