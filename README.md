@@ -5,5 +5,12 @@
 [<img width="100%" align="center" alt="if you see this, it means my metrics are not working" src="https://github.com/betellione/betellione/blob/main/metrics.plugin.isocalendar.svg">](https://github.com/betellione/betellione)
 
 [<img width="100%" align="center" alt="if you see this, it means my metrics are not working" src="https://github.com/betellione/betellione/blob/main/metrics.plugin.leetcode.svg">](https://github.com/betellione/betellione)
+# Проекты
+## Go
+|Название|Описание|Стек|
+|-|-|-|
+|[Сокращатель ссылок](https://github.com/betellione/linkShortener)|Реализация сервиса сокращения URL и редиректа при переходе по сокращенной ссылке.|GORM, Gin, Viper, Swagger, Docker|
+|[Чат на вебсокетах](https://github.com/betellione/go-chat)|Реализация чата на вебсокетах и хранение сессий в Redis.|Redis, Viper, Docker|
+|[Структуры данных](https://github.com/betellione/data-structures)|Реализация и тесты различных структур данных.||
 
 <!--![soft](https://capsule-render.vercel.app/api?type=soft&color=gradient&text=Come%20again!&fontSize=40&animation=twinkling) -->
