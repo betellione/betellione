@@ -13,4 +13,9 @@
 |[Чат на вебсокетах](https://github.com/betellione/go-chat)|Реализация чата на вебсокетах и хранение сессий в Redis.|Redis, Viper, Docker|
 |[Структуры данных](https://github.com/betellione/data-structures)|Реализация и тесты различных структур данных.||
 
+## C#
+|Название|Описание|Стек|
+|-|-|-|
+|[Сервис для управления мероприятиями](https://github.com/betellione/micekazan-backend)|Реализация сервиса для управления мероприятием. Содержит веб-сервис для управления, сервис печати и клиентские приложения.|ASP.NET Core, EF Core, IronPDF, Docker, NGINX|
+|[Фигуры](https://github.com/betellione/Test-Assignment-Mindbox)|Библиотека для хранения интерфейса фигуры и его реализации.||
 <!--![soft](https://capsule-render.vercel.app/api?type=soft&color=gradient&text=Come%20again!&fontSize=40&animation=twinkling) -->
