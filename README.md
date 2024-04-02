@@ -11,6 +11,7 @@
 |-|-|-|
 |[Сокращатель ссылок](https://github.com/betellione/linkShortener)|Реализация сервиса сокращения URL и редиректа при переходе по сокращенной ссылке.|GORM, Gin, Viper, Swagger, Docker|
 |[Чат на вебсокетах](https://github.com/betellione/go-chat)|Реализация чата на вебсокетах и хранение сессий в Redis.|Redis, Viper, Docker|
+|[Сервис уведомлений с grpc](https://github.com/betellione/notification-service)|Реализация сервиса на уведомлений с grpc.||
 |[Структуры данных](https://github.com/betellione/data-structures)|Реализация и тесты различных структур данных.||
 
 ## C#
